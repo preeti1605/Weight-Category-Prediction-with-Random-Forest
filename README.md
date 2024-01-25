@@ -17,4 +17,7 @@
 <img width="998" alt="Screenshot 2024-01-25 at 6 08 52 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/0d528ddb-0fd0-466a-a23c-1d4952c4a1a6">
 <img width="998" alt="Screenshot 2024-01-25 at 6 09 16 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/b9fc1b35-f963-484b-9082-08ec56f14f5f">
 <img width="998" alt="Screenshot 2024-01-25 at 6 09 34 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/d62ca0de-ee2c-4221-b3a6-7027b6db246d">
+<img width="998" alt="Screenshot 2024-01-25 at 6 12 26 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/41cde98c-03ae-4908-92e3-c669ac7caaae">
+<img width="892" alt="Screenshot 2024-01-25 at 6 12 57 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/774792f8-7471-48e9-aae2-6fdf8610081e">
+<img width="982" alt="Screenshot 2024-01-25 at 6 13 25 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/e50c99e4-5d35-441a-9c69-202c8f5ca06c">
 
