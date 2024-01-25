@@ -10,3 +10,11 @@
 <img width="998" alt="Screenshot 2024-01-25 at 5 51 19 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/d7b4eb8e-b9a4-4985-8edf-492925720e6f">
 <img width="998" alt="Screenshot 2024-01-25 at 6 07 27 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/2dddbcb7-57c4-4d76-ac90-c59b2059254f">
 <img width="998" alt="Screenshot 2024-01-25 at 6 07 45 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/5b5bce84-2406-4985-be49-7c896ec176ab">
+<img width="998" alt="Screenshot 2024-01-25 at 6 07 55 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/b14716d3-ddb8-4ae7-8e98-0538c438ea4e">
+<img width="998" alt="Screenshot 2024-01-25 at 6 08 10PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/6f40251d-6458-4417-8a42-9c46cf3465fa">
+<img width="998" alt="Screenshot 2024-01-25 at 6 08 25 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/2f61c40e-216e-4b2f-be2d-6654534be72c">
+<img width="998" alt="Screenshot 2024-01-25 at 6 08 36 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/0b506a9b-df6c-4157-ba07-854eef3eaad0">
+<img width="998" alt="Screenshot 2024-01-25 at 6 08 52 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/0d528ddb-0fd0-466a-a23c-1d4952c4a1a6">
+<img width="998" alt="Screenshot 2024-01-25 at 6 09 16 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/b9fc1b35-f963-484b-9082-08ec56f14f5f">
+<img width="998" alt="Screenshot 2024-01-25 at 6 09 34 PM" src="https://github.com/preeti1605/Weight-Category-Prediction-with-Random-Forest/assets/75083231/d62ca0de-ee2c-4221-b3a6-7027b6db246d">
+
